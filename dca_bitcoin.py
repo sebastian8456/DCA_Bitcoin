@@ -1,5 +1,5 @@
 """Orders bitcoin"""
-USD_AMOUNT = 10
+USD_AMOUNT = 5
 
 from coinbase.rest import RESTClient
 from dotenv import load_dotenv
