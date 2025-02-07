@@ -1,5 +1,4 @@
 """Deposits cash and orders bitcoin on Coinbase"""
-#TODO: Fix Task Scheduler to run every month/week
 
 from coinbase.rest import RESTClient
 from dotenv import load_dotenv
